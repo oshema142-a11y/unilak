@@ -1,2 +1,0 @@
-# unilak
-group 2
